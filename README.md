@@ -10,7 +10,7 @@ Definitely nothing fancy, but does it's work.
 
 1. create a folder in your roundcube's plugin directory named login_notice
 
-2. replace the placeholder text with your own custom notice text.
+2. replace the placeholder text in login_notice.js with your own custom notice text.
 
 3. put the files in your new directory
 
